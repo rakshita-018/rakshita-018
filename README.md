@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on project<br>🌱 I’m currently learning App Dev<br>👯 I'm looking to collaborate on backend projects<br>💬 Ask me about Java, Spring Boot, and APIs <br>⚡ Fun fact: My code works… until someone else looks at it.
+🔭 I’m currently working on project<br>👯 I'm looking to collaborate on backend projects<br>💬 Ask me about Java, Spring Boot, and APIs <br>⚡ Fun fact: My code works… until someone else looks at it.
 
 
 ## 🌐 Socials:
